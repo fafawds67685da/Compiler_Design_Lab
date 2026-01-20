@@ -13,6 +13,5 @@ about (.) or (.*) which acts like an else statement after the RE expression cond
 How to run?
 
 1. flex Test1.l
-2. lex.yy.c
-3. gcc lex.yy.c
-4. a
+2. gcc lex.yy.c
+3. a
